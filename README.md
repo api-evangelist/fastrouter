@@ -64,5 +64,133 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fastrouter is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://fastrouter.ai/
+FastRouter.ai provides a unified API gateway for large language models, enabling enterprises to route, compare, and operate across over 200 AI models via a single OpenAI‑compatible endpoint. It offers features such as automatic model selection, cost‑optimization insights, response caching, prompt management, and comprehensive analytics, helping teams build scalable, reliable AI applications while reducing latency and expense.
+
+**Areas:** Company · Artificial Intelligence · API Gateway · LLM · Enterprise
+
+## Fastrouter on APIs.io
+
+Everything profiled for Fastrouter is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fastrouter/](https://apis.io/providers/fastrouter/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [Fastrouter Audio API](https://apis.io/apis/fastrouter/fastrouter-audio-api/) — The Audio API from Fastrouter — 2 operation(s) for audio.
+- [Fastrouter Batches API](https://apis.io/apis/fastrouter/fastrouter-batches-api/) — The Batches API from Fastrouter — 2 operation(s) for batches.
+- [Fastrouter Embeddings API](https://apis.io/apis/fastrouter/fastrouter-embeddings-api/) — The Embeddings API from Fastrouter — 1 operation(s) for embeddings.
+- [Fastrouter Files API](https://apis.io/apis/fastrouter/fastrouter-files-api/) — The Files API from Fastrouter — 2 operation(s) for files.
+- [Fastrouter Generation API](https://apis.io/apis/fastrouter/fastrouter-generation-api/) — The Generation API from Fastrouter — 1 operation(s) for generation.
+- [Fastrouter Get Async Response API](https://apis.io/apis/fastrouter/fastrouter-getasyncresponse-api/) — The GetAsyncResponse API from Fastrouter — 1 operation(s) for getasyncresponse.
+- [Fastrouter Get Prompt To Audio Response API](https://apis.io/apis/fastrouter/fastrouter-getprompttoaudioresponse-api/) — The GetPromptToAudioResponse API from Fastrouter — 1 operation(s) for getprompttoaudioresponse.
+- [Fastrouter Images API](https://apis.io/apis/fastrouter/fastrouter-images-api/) — The Images API from Fastrouter — 2 operation(s) for images.
+- [Fastrouter Model API](https://apis.io/apis/fastrouter/fastrouter-model-api/) — The Model API from Fastrouter — 2 operation(s) for model.
+- [Fastrouter Models API](https://apis.io/apis/fastrouter/fastrouter-models-api/) — The Models API from Fastrouter — 1 operation(s) for models.
+- [Fastrouter Moderations API](https://apis.io/apis/fastrouter/fastrouter-moderations-api/) — The Moderations API from Fastrouter — 1 operation(s) for moderations.
+- [Fastrouter Responses API](https://apis.io/apis/fastrouter/fastrouter-responses-api/) — The Responses API from Fastrouter — 1 operation(s) for responses.
+- [Fastrouter Videos API](https://apis.io/apis/fastrouter/fastrouter-videos-api/) — The Videos API from Fastrouter — 1 operation(s) for videos.
+- [Fastrouter Chat Completions API](https://apis.io/apis/fastrouter/fastrouter-chat-completions-api/) — The Chat Completions API from Fastrouter — 1 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fastrouter Agentic Access](https://apis.io/agentic-access/fastrouter/fastrouter-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [JsonObject](https://apis.io/schemas/fastrouter/fastrouter-json-object/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Fastrouter API Rules](https://apis.io/rules/fastrouter/fastrouter-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fastrouter Authentication](https://apis.io/security/fastrouter/fastrouter-authentication/)
+- [Fastrouter Domain Security](https://apis.io/security/fastrouter/fastrouter-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Fastrouter Plans Pricing](https://apis.io/plans/fastrouter/fastrouter-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fastrouter.ai/)
+- [Documentation](https://docs.fastrouter.ai/)
+- [Getting started](https://docs.fastrouter.ai/explore-features/quickstart)
+- [API reference](https://docs.fastrouter.ai/api-reference)
+- [Pricing](https://fastrouter.ai/pricing)
+- [Sign up](https://fastrouter.ai/sign-up)
+- [Changelog](https://docs.fastrouter.ai/product-updates/changelog)
+- [Blog](https://fastrouter.ai/blog)
+- [Terms of service](https://fastrouter.ai/terms)
+- [Privacy policy](https://fastrouter.ai/privacy)
+- [GitHub](https://github.com/fastrouter)
+
+## API Evangelist rating
+
+**Kin Score 51.5** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 46.8 |
+| Contract governance | 18.2 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 59.5 |
+| Access clarity | 76.3 |
+
+**Agent readiness 19.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fastrouter/](https://apis.io/providers/fastrouter/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fastrouter: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fastrouter/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
